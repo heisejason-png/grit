@@ -240,4 +240,5 @@ Copyright
 ---------
 
 Copyright (c) 2010 Tom Preston-Werner. See LICENSE for details.
-Created by Jason Heise  https://www.behance.net
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
